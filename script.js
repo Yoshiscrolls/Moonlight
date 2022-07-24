@@ -13,7 +13,7 @@ stars.style.left = value * 0.25 + `px`;
 moon.style.top = value + `px`;
 mountainBehind.style.top = value * 0.5 + `px`;
 buttonExplore.style.marginTop = value * 1.5 + `px`;
-text.style.marginTop = value * 1 + `px`;
+text.style.marginTop = value + `px`;
 text.style.marginRight = value * 3 + `px`;
 header.style.top = value * 0.5 + `px`;
 });
